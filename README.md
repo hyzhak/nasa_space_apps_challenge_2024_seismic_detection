@@ -5,3 +5,5 @@
 </a>
 
 NASA Space Apps Challenge 2024 -- Seismic Detection Across the Solar System (https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/seismic-detection-across-the-solar-system/)
+
+Team's page: https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/velyki-mali-shum/
